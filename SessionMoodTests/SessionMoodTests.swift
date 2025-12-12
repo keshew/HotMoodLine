@@ -1,10 +1,3 @@
-//
-//  SessionMoodTests.swift
-//  SessionMoodTests
-//
-//  Created by Артём Коротков on 12.12.2025.
-//
-
 import XCTest
 @testable import SessionMood
 

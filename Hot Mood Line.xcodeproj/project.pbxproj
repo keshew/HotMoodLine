@@ -24,9 +24,9 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		860112782EEC18BD009EA450 /* SessionMood.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SessionMood.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		860112882EEC18BE009EA450 /* SessionMoodTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SessionMoodTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		860112922EEC18BE009EA450 /* SessionMoodUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SessionMoodUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		860112782EEC18BD009EA450 /* Hot Mood Line.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Hot Mood Line.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		860112882EEC18BE009EA450 /* Hot Mood LineTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Hot Mood LineTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		860112922EEC18BE009EA450 /* Hot Mood LineUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Hot Mood LineUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -85,9 +85,9 @@
 		860112792EEC18BD009EA450 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				860112782EEC18BD009EA450 /* SessionMood.app */,
-				860112882EEC18BE009EA450 /* SessionMoodTests.xctest */,
-				860112922EEC18BE009EA450 /* SessionMoodUITests.xctest */,
+				860112782EEC18BD009EA450 /* Hot Mood Line.app */,
+				860112882EEC18BE009EA450 /* Hot Mood LineTests.xctest */,
+				860112922EEC18BE009EA450 /* Hot Mood LineUITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -95,9 +95,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		860112772EEC18BD009EA450 /* SessionMood */ = {
+		860112772EEC18BD009EA450 /* Hot Mood Line */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 8601129C2EEC18BE009EA450 /* Build configuration list for PBXNativeTarget "SessionMood" */;
+			buildConfigurationList = 8601129C2EEC18BE009EA450 /* Build configuration list for PBXNativeTarget "Hot Mood Line" */;
 			buildPhases = (
 				860112742EEC18BD009EA450 /* Sources */,
 				860112752EEC18BD009EA450 /* Frameworks */,
@@ -110,16 +110,16 @@
 			fileSystemSynchronizedGroups = (
 				8601127A2EEC18BD009EA450 /* SessionMood */,
 			);
-			name = SessionMood;
+			name = "Hot Mood Line";
 			packageProductDependencies = (
 			);
 			productName = SessionMood;
-			productReference = 860112782EEC18BD009EA450 /* SessionMood.app */;
+			productReference = 860112782EEC18BD009EA450 /* Hot Mood Line.app */;
 			productType = "com.apple.product-type.application";
 		};
-		860112872EEC18BE009EA450 /* SessionMoodTests */ = {
+		860112872EEC18BE009EA450 /* Hot Mood LineTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 8601129F2EEC18BE009EA450 /* Build configuration list for PBXNativeTarget "SessionMoodTests" */;
+			buildConfigurationList = 8601129F2EEC18BE009EA450 /* Build configuration list for PBXNativeTarget "Hot Mood LineTests" */;
 			buildPhases = (
 				860112842EEC18BE009EA450 /* Sources */,
 				860112852EEC18BE009EA450 /* Frameworks */,
@@ -133,16 +133,16 @@
 			fileSystemSynchronizedGroups = (
 				8601128B2EEC18BE009EA450 /* SessionMoodTests */,
 			);
-			name = SessionMoodTests;
+			name = "Hot Mood LineTests";
 			packageProductDependencies = (
 			);
 			productName = SessionMoodTests;
-			productReference = 860112882EEC18BE009EA450 /* SessionMoodTests.xctest */;
+			productReference = 860112882EEC18BE009EA450 /* Hot Mood LineTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		860112912EEC18BE009EA450 /* SessionMoodUITests */ = {
+		860112912EEC18BE009EA450 /* Hot Mood LineUITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 860112A22EEC18BE009EA450 /* Build configuration list for PBXNativeTarget "SessionMoodUITests" */;
+			buildConfigurationList = 860112A22EEC18BE009EA450 /* Build configuration list for PBXNativeTarget "Hot Mood LineUITests" */;
 			buildPhases = (
 				8601128E2EEC18BE009EA450 /* Sources */,
 				8601128F2EEC18BE009EA450 /* Frameworks */,
@@ -156,11 +156,11 @@
 			fileSystemSynchronizedGroups = (
 				860112952EEC18BE009EA450 /* SessionMoodUITests */,
 			);
-			name = SessionMoodUITests;
+			name = "Hot Mood LineUITests";
 			packageProductDependencies = (
 			);
 			productName = SessionMoodUITests;
-			productReference = 860112922EEC18BE009EA450 /* SessionMoodUITests.xctest */;
+			productReference = 860112922EEC18BE009EA450 /* Hot Mood LineUITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
@@ -186,7 +186,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 860112732EEC18BD009EA450 /* Build configuration list for PBXProject "SessionMood" */;
+			buildConfigurationList = 860112732EEC18BD009EA450 /* Build configuration list for PBXProject "Hot Mood Line" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -200,9 +200,9 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				860112772EEC18BD009EA450 /* SessionMood */,
-				860112872EEC18BE009EA450 /* SessionMoodTests */,
-				860112912EEC18BE009EA450 /* SessionMoodUITests */,
+				860112772EEC18BD009EA450 /* Hot Mood Line */,
+				860112872EEC18BE009EA450 /* Hot Mood LineTests */,
+				860112912EEC18BE009EA450 /* Hot Mood LineUITests */,
 			);
 		};
 /* End PBXProject section */
@@ -258,12 +258,12 @@
 /* Begin PBXTargetDependency section */
 		8601128A2EEC18BE009EA450 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 860112772EEC18BD009EA450 /* SessionMood */;
+			target = 860112772EEC18BD009EA450 /* Hot Mood Line */;
 			targetProxy = 860112892EEC18BE009EA450 /* PBXContainerItemProxy */;
 		};
 		860112942EEC18BE009EA450 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 860112772EEC18BD009EA450 /* SessionMood */;
+			target = 860112772EEC18BD009EA450 /* Hot Mood Line */;
 			targetProxy = 860112932EEC18BE009EA450 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -398,11 +398,13 @@
 				DEVELOPMENT_ASSET_PATHS = "\"SessionMood/Preview Content\"";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_CFBundleDisplayName = "Hot Mood Line";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -410,9 +412,13 @@
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.app.SessionMood;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD = NO;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
@@ -426,11 +432,13 @@
 				DEVELOPMENT_ASSET_PATHS = "\"SessionMood/Preview Content\"";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_CFBundleDisplayName = "Hot Mood Line";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -438,9 +446,13 @@
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.app.SessionMood;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD = NO;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};
@@ -458,7 +470,7 @@
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/SessionMood.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/SessionMood";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Hot Mood Line.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Hot Mood Line";
 			};
 			name = Debug;
 		};
@@ -476,7 +488,7 @@
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/SessionMood.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/SessionMood";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Hot Mood Line.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Hot Mood Line";
 			};
 			name = Release;
 		};
@@ -515,7 +527,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		860112732EEC18BD009EA450 /* Build configuration list for PBXProject "SessionMood" */ = {
+		860112732EEC18BD009EA450 /* Build configuration list for PBXProject "Hot Mood Line" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				8601129A2EEC18BE009EA450 /* Debug */,
@@ -524,7 +536,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		8601129C2EEC18BE009EA450 /* Build configuration list for PBXNativeTarget "SessionMood" */ = {
+		8601129C2EEC18BE009EA450 /* Build configuration list for PBXNativeTarget "Hot Mood Line" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				8601129D2EEC18BE009EA450 /* Debug */,
@@ -533,7 +545,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		8601129F2EEC18BE009EA450 /* Build configuration list for PBXNativeTarget "SessionMoodTests" */ = {
+		8601129F2EEC18BE009EA450 /* Build configuration list for PBXNativeTarget "Hot Mood LineTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				860112A02EEC18BE009EA450 /* Debug */,
@@ -542,7 +554,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		860112A22EEC18BE009EA450 /* Build configuration list for PBXNativeTarget "SessionMoodUITests" */ = {
+		860112A22EEC18BE009EA450 /* Build configuration list for PBXNativeTarget "Hot Mood LineUITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				860112A32EEC18BE009EA450 /* Debug */,

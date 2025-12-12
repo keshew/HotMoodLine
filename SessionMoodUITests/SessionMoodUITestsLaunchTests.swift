@@ -1,10 +1,3 @@
-//
-//  SessionMoodUITestsLaunchTests.swift
-//  SessionMoodUITests
-//
-//  Created by Артём Коротков on 12.12.2025.
-//
-
 import XCTest
 
 final class SessionMoodUITestsLaunchTests: XCTestCase {
